@@ -48,7 +48,6 @@ footer p {
 }
 .note h1 {
   font-size: 1.1em;
-    border: 1px solid hsla(0, 0%, 80%, 0.338);
   margin-bottom: 6px;
 }
 .note p {
@@ -56,5 +55,4 @@ footer p {
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
-  border: 1px solid hsla(0, 0%, 80%, 0.338);
 }
